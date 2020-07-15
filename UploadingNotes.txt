@@ -1,0 +1,59 @@
+How To Add Audio Sermons, Audio Boys Lesson, Hymns, And Video Links...
+** Video Links **
+On sermons.html page  
+Look for: <!-- Video Sermons Add Below -->
+Then look for: <!-- Put The Link To Video Message Below -->
+Here is were you will copy and paste the link to the YouTube link to the video link.
+
+** Video Comments **
+On sermons.html page
+Look for: <!-- Add Notes About This Video --> 
+Then look for: <!-- Enter Notes Below About Video Sermon -->
+Here is were you can put a description about the video sermon.
+
+** Audio Sermon ** 
+On sermons.html page
+Look for: <!-- Audio Sermon -->
+Then look for: <!-- Put The link to the Audio Sermon Below -->
+Note: This is just a link to ./sermonArchive/sermons(year folder)/(name of sermon).mp3 
+	The Audio Sermon will be stored in the sermonArchive/sermons(year folder)
+Here is were you will put the link to the Audio Sermon.  As long as we are not in a new year, all you should have to do is just remove last weeks (name of sermon).mp3 from the link and just put in the (name of sermon).mp3 for the new Audio sermon.
+
+** Boys Lesson Audio **
+On sermons.html page
+Look for: <!-- Boys Lesson Audio --> 
+Then look for: <!-- Put The Link To The Audio Boys Lesson Below --> 
+Note: This is just a link to ./boysLesson/boysLesson_(book of the bible)/(name of lesson)/mp3
+	The Boys Lesson Audio will be stored in the boysLesson/boysLesson_(book of bible) folder
+Here is were you will put the link to the Boys Lesson. As long as we are not in a new book of the bible, all you should have to do is just remove last weeks (name of lesson).mp3 from the link and just put in the (name of lesson).mp3 for the new Boys Lesson.
+
+
+** Hymns **
+On sermons.html page
+Look for: <!-- Hymns --> 
+Then look for: <!-- Put The Link To The Hymns Below --> 
+Note: This is just a link to ./hymns/(name of singing).mp3
+	The Hymns will be stored in the hymns folder.
+Here is were you will put the link to the Hymn. All you should have to do is just remove last week's (name of singing).mp3 from the link and just put in the new (name of singing).mp3.
+
+
+Notes for uploading weekly files
+
+** Video Sermons **
+Video Sermons should be uploaded to you YouTube account just as in the past.  You just need the link address to attach to the website.
+
+** Audio Sermon **
+In Folder: sermonArchive Then: (sermon(Year)) folder
+Put your new weeks sermon in the right sermon year folder. Make note of the sermon title and this will be used to link to it in the sermons.html
+
+** Boys Lesson Audio **
+In Folder: boysLesson Then: boysLesson_(name of book in the bible) folder
+Put your new weeks boys lesson in the right book of the bible folder. Make note of the sermon title and this will be used to link to it in the sermons.html
+
+** Hymns **
+In Folder: hymns
+Put your new weeks hymns in the hymns folder. Make note of the hymn singing name and this will be used to link to it in the sermons.html
+
+If you have any problems please get a hold of me. 417-440-0645
+** Note ** I can help updating folders for Sermon Year, Boys Lessons (book of the bible), and work on naming and location on audio of the Hymns.
+
